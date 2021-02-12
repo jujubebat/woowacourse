@@ -10,7 +10,7 @@
 ## 진행한 프로젝트 
 
 | Project | Repository |
-|:---:|:---:|:---|
+|:---:|:---:|
 |  숫자 야구 게임 | [java-baseball-precourse](https://github.com/jujubebat/java-baseball-precourse) |
 |  자동차 경주 게임 | [java-racingcar-precourse](https://github.com/jujubebat/java-racingcar-precourse) |
 |  지하철 노선도 | [java-subway-map-precourse](https://github.com/jujubebat/java-subway-map-precourse) |
