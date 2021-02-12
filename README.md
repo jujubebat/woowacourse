@@ -1,7 +1,7 @@
 
 <img width="300" alt="스크린샷 2021-02-12 오후 2 15 40" src="https://user-images.githubusercontent.com/37281119/107732860-cf668580-6d3c-11eb-9945-d7c0f6952bc3.png">
 
-# 🥑 pre-course (선발 과정)
+# pre-course (선발 과정)
 
 ## 진행한 프로젝트 
 
@@ -12,7 +12,7 @@
 |  지하철 노선도 | [java-subway-map-precourse](https://github.com/jujubebat/java-subway-map-precourse) |
 |  지하철 노선도 경로 조회 | [java-subway-path-precourse](https://github.com/jujubebat/java-subway-path-precourse) |
 
-# 🌱 Level 1
+# Level 1
 
 ## 학습 목표
 
