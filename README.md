@@ -25,7 +25,7 @@
 | Project | Repository |
 |:---:|:---:|
 | 자동차 경주 - TDD | [java-racingcar](https://github.com/jujubebat/java-racingcar) |
-| 로또 - OOP |  |
+| 로또 - OOP |[java-lotto](https://github.com/jujubebat/java-lotto)|
 | 블랙잭 - 상속, 인터페이스 |  |
 | 체스 - 웹, DB |  |
 | 웹 Basic |  |
